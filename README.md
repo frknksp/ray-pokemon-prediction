@@ -5,8 +5,7 @@ This project implements a **Distributed Machine Learning Pipeline** to predict P
 
 By leveraging **Ray Core** for task parallelism and **LightGBM** for efficient gradient boosting, this project demonstrates how to scale hyperparameter optimization on multi-core CPU clusters.
 
-The final model achieves **~19x lift** over random guessing and successfully identifies rare Pokemon spawns using a balanced class weight strategy and deep decision trees.
-
+The final model achieves **~19x lift** over random guessing and **improves the detection of** rare Pokemon spawns using a balanced class weight strategy and deep decision trees.
 ---
 
 ## 📂 Dataset
