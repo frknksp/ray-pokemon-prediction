@@ -1,0 +1,14 @@
+Kategori,Feature,Açıklama
+Spatial (Mekansal),cellId_500m,500m hücre ID
+Spatial (Mekansal),terrainType,Arazi türü
+Spatial (Mekansal),closeToWater,Suya yakınlık
+Spatial (Mekansal),populationDensity,Nüfus yoğunluğu
+Spatial (Mekansal),urban_rural,Kentsel-kırsal
+Temporal (Zamansal),appearedHour,Görülme saati
+Temporal (Zamansal),appearedTimeOfDay,Günün zamanı
+Temporal (Zamansal),appearedDayOfWeek,Haftanın günü
+Weather,weather,Hava durumu
+Weather,temperature,Sıcaklık
+POI,pokestopDistanceKm,Pokestop mesafesi (km)
+POI,gymDistanceKm,Gym mesafesi (km)
+Co-occurrence (İndirgenmiş),nearby_pokemon_count,Yakındaki Pokemon sayısı
