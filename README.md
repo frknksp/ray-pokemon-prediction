@@ -9,6 +9,14 @@ The final model achieves **~19x lift** over random guessing and successfully ide
 
 ---
 
+## 📂 Dataset
+
+The project uses a dataset containing **~300k Pokemon spawn records**.
+
+**Source:** [Predict'em All (Kaggle)](https://www.kaggle.com/datasets/semioniy/predictemall/data)
+
+---
+
 ## 🏗️ Architecture
 
 This project moves beyond traditional sequential training by using **Task Parallelism**:
